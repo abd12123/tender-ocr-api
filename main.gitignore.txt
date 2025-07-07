@@ -1,0 +1,12 @@
+# Ignore Poppler and local binaries
+poppler-24.08.0/
+*.exe
+*.dll
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code and IDE settings
+.vscode/
+.env
